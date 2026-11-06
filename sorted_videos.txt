@@ -1,0 +1,68 @@
+# Cybrary-Offensive Penetration Testing
+
+1. Course Introduction  [s1.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1pe2BfF4wr0Ux2bC9g-2UWClfZ3YW1G5P/preview
+
+2. Introduction to Pentesting  [s2.html]
+    001. Basic Linux Commands  ->  https://drive.google.com/file/d/1ncZcn9H8JNpdKfDw5X3ED27YcOHanj-H/preview
+    002. Basic Services to Use in Kali Linux  ->  https://drive.google.com/file/d/1R1sfZQMD1nr9m9GiBelyJ7pbWge922Jf/preview
+    003. Service Management  ->  https://drive.google.com/file/d/16DaoiB8IJA8wnB5yfSjp_yTB6UN5Aoqw/preview
+    004. Shell and Bash Scripts  ->  https://drive.google.com/file/d/1TAPGxP82d8hd3ZmZfQaDPvsjS_lPS7du/preview
+    005. Practice Scenarios  ->  https://drive.google.com/file/d/1wRlgv_8Fx7ko18bt5ObDP77xHmdMZyBv/preview
+
+3. Hacker s Main Tools  [s3.html]
+    001. Nmap  ->  https://drive.google.com/file/d/1Kgdav8sXxiFxJeV4sezqK6fcOn-VW_D_/preview
+    002. Netcat  ->  https://drive.google.com/file/d/1cv0NO_i-YuTPW9SV0pZMEJ38hLqlz57S/preview
+    003. Blind and Reverse Shells  ->  https://drive.google.com/file/d/1CYhrChlTFekNj9zE8rgttPU2CUbteCDE/preview
+    004. Wireshark and tcpdump  ->  https://drive.google.com/file/d/1xOhcyI5jicpPIOBI9gAqS1C49hTwedPW/preview
+    005. Burp Suite  ->  https://drive.google.com/file/d/1dkbDTjjF9dXa2DU3h9h_Pspw0cJlM2yb/preview
+    006. Metasploit Basics  ->  https://drive.google.com/file/d/1EI2YAMpOI8TlKg-8SvHIM4hzzXvOEIKM/preview
+
+4. Information Gathering  [s4.html]
+    001. Google Hacks  ->  https://drive.google.com/file/d/1k3yk2ATM_rFcvLbWE6LVmFDpYTvP76uD/preview
+    002. DNS Enumeration  ->  https://drive.google.com/file/d/1zXbH0T164Umu6cSrDjXieq460Zd0Xn07/preview
+    003. Port Scanning  ->  https://drive.google.com/file/d/1yIt8cHT6XYBbjqt5ne_POrAnIzq3p51H/preview
+    004. Enumeration  ->  https://drive.google.com/file/d/1JKgUWg1sJIGRa0lIVrbFa5us0kRopMim/preview
+    005. NSE  ->  https://drive.google.com/file/d/1qHq-Nq7l0nTuBRtXDV2y8c1MSLjGUGS0/preview
+    006. Python and Perl Scripts  ->  https://drive.google.com/file/d/1KYhYoPAxycc3TyBrit7GSxXdEJ7nudW0/preview
+    007. Vulnerability Scanners  ->  https://drive.google.com/file/d/1yF886KbbRFqoZq2HOgzebgq1Td4xTnTw/preview
+
+5. Exploits  [s5.html]
+    001. XSS  ->  https://drive.google.com/file/d/12ZUmB1Pgtl5l5zCC0ADE2N2hR7mzsJUs/preview
+    002. SQL Injections  ->  https://drive.google.com/file/d/1ekgH6lVxlqexKKfCYzqU2TzLl6nBSUvl/preview
+    003. LFI-RFI and Directory Traversal  ->  https://drive.google.com/file/d/1395rvRlc6oEEm8O2R5y1yFoxanIr5-Fm/preview
+    004. Password Attacks  ->  https://drive.google.com/file/d/1H3F0Uca_d4hE6skrr3meWif5-IMagzmv/preview
+    005. Public Exploits  ->  https://drive.google.com/file/d/1B5cEdCx6uqDGrt41z3p_HFy-p6ziKe3w/preview
+    006. MSFvenom  ->  https://drive.google.com/file/d/1AVTbFqfWz2S8Ct7F1Ou5uqFy1hzXyPiP/preview
+    007. Tunneling  ->  https://drive.google.com/file/d/1AoQYe98s1FT1SfPmsBrgk6E0AYuxgWsn/preview
+    008. Lateral and Vertical Movement  ->  https://drive.google.com/file/d/1BrkbP9BZllDmbuCKFSQ3S0CdynNWBOSt/preview
+    009. Erasing your Tracks  ->  https://drive.google.com/file/d/169DcStTU44VX6mQKSxZxKBceKBCAUcKS/preview
+    010. Antivirus Avoidance  ->  https://drive.google.com/file/d/1lSAEEpArEwajvJ62_IWKuuujIFQM6_V4/preview
+
+6. Buffer Overflow  [s6.html]
+    001. Basic Concepts  ->  https://drive.google.com/file/d/1GFOOR1K8ic2Eh0jAxG6QGdzC3kFGgcGd/preview
+    002. Immunity Debugger Fuzzing  ->  https://drive.google.com/file/d/1-QjTAXGBojnJFK5eH63YERrEQOKS7nKU/preview
+    003. Controlling EBP ESP EIP  ->  https://drive.google.com/file/d/1mzAclyZAFzsjZZjIbiAe0kTePcbwIwag/preview
+    004. Bad Chars  ->  https://drive.google.com/file/d/1BSboTFVG4Ya46c3Vr9DDqxXVCj4Egiqg/preview
+    005. Redirecting Execution  ->  https://drive.google.com/file/d/1tp3rCYIK1iCMNPwBuBZj8Z1K3qyB-vDz/preview
+    006. Creating a Payload  ->  https://drive.google.com/file/d/1reWxS2e2gfpCyw2tnKVRqxdbRQrG_t2C/preview
+
+7. Privilege Escalation  [s7.html]
+    001. Linux OS  ->  https://drive.google.com/file/d/15j9WxF3fv4xqL7-62xPsfidXpvrgty83/preview
+    002. Linux Applications and Services  ->  https://drive.google.com/file/d/11tBbeCocbVZ162EJEyVr2N3nXm09hE5S/preview
+    003. Linux Files  ->  https://drive.google.com/file/d/1mKOEvpuY7am07SqJ_0N041xi5B3ugOY8/preview
+    004. Linux Networking  ->  https://drive.google.com/file/d/1RvtKPJRVh0fJ1z9bUCxVvO5OOLyIwJfx/preview
+    005. Linux Misconfigurations for Confidential Information  ->  https://drive.google.com/file/d/1rVqsdfsG29orFMEagHXmq0lqPNv3-vOc/preview
+    006. Windows OS  ->  https://drive.google.com/file/d/1ggHgvc97R7bN89p1PxV3PKv_BwSGXF9X/preview
+    007. WMIC  ->  https://drive.google.com/file/d/1poXz18jPsROUHMJnZEsrXuRwrZMwWyLZ/preview
+    008. Windows Application and Services  ->  https://drive.google.com/file/d/1oXWFCs2-u5aWWhh9vIs6cTLDPp9WSpG2/preview
+
+8. Pentest Simulation  [s8.html]
+    001. Pre-Engagement Actions  ->  https://drive.google.com/file/d/1BYsIWzWb18XILKwXaSSgN75gdius_lbq/preview
+    002. Reconnaissance and Vulnerability Identification  ->  https://drive.google.com/file/d/1Th-NJSEHq87soi6P6DOgOyAa1QXOFTJJ/preview
+    003. Exploitation  ->  https://drive.google.com/file/d/1AkOy3SCC5Ovl4wCu-RNiRC0wPG22iZjC/preview
+    004. Privilege Escalation  ->  https://drive.google.com/file/d/1DH6wLdnQQ5PyeRyd5cO458yku0DmfGM_/preview
+    005. Reporting and Next Steps  ->  https://drive.google.com/file/d/1RI5ouLug91CRtzBj4H9ULwISAcxgaH70/preview
+
+9. Course Summary  [s9.html]
+    001. Course Summary  ->  https://drive.google.com/file/d/1RwRLQ_PLFTGxv0l5eqmHzM_z_qod7nxa/preview

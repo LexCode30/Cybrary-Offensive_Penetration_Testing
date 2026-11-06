@@ -1,0 +1,415 @@
+{
+  "name": "Cybrary-Offensive Penetration Testing",
+  "slug": "Cybrary-Offensive_Penetration_Testing",
+  "url": "https://LexCode30.github.io/Cybrary-Offensive_Penetration_Testing/",
+  "category": "cybersecurity",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Course Introduction",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1pe2BfF4wr0Ux2bC9g-2UWClfZ3YW1G5P",
+          "anchor": "v-1pe2BfF4wr0Ux2bC9g-2UWClfZ3YW1G5P",
+          "href": "s1.html#v-1pe2BfF4wr0Ux2bC9g-2UWClfZ3YW1G5P"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Introduction to Pentesting",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Basic Linux Commands",
+          "id": "1ncZcn9H8JNpdKfDw5X3ED27YcOHanj-H",
+          "anchor": "v-1ncZcn9H8JNpdKfDw5X3ED27YcOHanj-H",
+          "href": "s2.html#v-1ncZcn9H8JNpdKfDw5X3ED27YcOHanj-H"
+        },
+        {
+          "number": 2,
+          "title": "Basic Services to Use in Kali Linux",
+          "id": "1R1sfZQMD1nr9m9GiBelyJ7pbWge922Jf",
+          "anchor": "v-1R1sfZQMD1nr9m9GiBelyJ7pbWge922Jf",
+          "href": "s2.html#v-1R1sfZQMD1nr9m9GiBelyJ7pbWge922Jf"
+        },
+        {
+          "number": 3,
+          "title": "Service Management",
+          "id": "16DaoiB8IJA8wnB5yfSjp_yTB6UN5Aoqw",
+          "anchor": "v-16DaoiB8IJA8wnB5yfSjp_yTB6UN5Aoqw",
+          "href": "s2.html#v-16DaoiB8IJA8wnB5yfSjp_yTB6UN5Aoqw"
+        },
+        {
+          "number": 4,
+          "title": "Shell and Bash Scripts",
+          "id": "1TAPGxP82d8hd3ZmZfQaDPvsjS_lPS7du",
+          "anchor": "v-1TAPGxP82d8hd3ZmZfQaDPvsjS_lPS7du",
+          "href": "s2.html#v-1TAPGxP82d8hd3ZmZfQaDPvsjS_lPS7du"
+        },
+        {
+          "number": 5,
+          "title": "Practice Scenarios",
+          "id": "1wRlgv_8Fx7ko18bt5ObDP77xHmdMZyBv",
+          "anchor": "v-1wRlgv_8Fx7ko18bt5ObDP77xHmdMZyBv",
+          "href": "s2.html#v-1wRlgv_8Fx7ko18bt5ObDP77xHmdMZyBv"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Hacker s Main Tools",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Nmap",
+          "id": "1Kgdav8sXxiFxJeV4sezqK6fcOn-VW_D_",
+          "anchor": "v-1Kgdav8sXxiFxJeV4sezqK6fcOn-VW_D_",
+          "href": "s3.html#v-1Kgdav8sXxiFxJeV4sezqK6fcOn-VW_D_"
+        },
+        {
+          "number": 2,
+          "title": "Netcat",
+          "id": "1cv0NO_i-YuTPW9SV0pZMEJ38hLqlz57S",
+          "anchor": "v-1cv0NO_i-YuTPW9SV0pZMEJ38hLqlz57S",
+          "href": "s3.html#v-1cv0NO_i-YuTPW9SV0pZMEJ38hLqlz57S"
+        },
+        {
+          "number": 3,
+          "title": "Blind and Reverse Shells",
+          "id": "1CYhrChlTFekNj9zE8rgttPU2CUbteCDE",
+          "anchor": "v-1CYhrChlTFekNj9zE8rgttPU2CUbteCDE",
+          "href": "s3.html#v-1CYhrChlTFekNj9zE8rgttPU2CUbteCDE"
+        },
+        {
+          "number": 4,
+          "title": "Wireshark and tcpdump",
+          "id": "1xOhcyI5jicpPIOBI9gAqS1C49hTwedPW",
+          "anchor": "v-1xOhcyI5jicpPIOBI9gAqS1C49hTwedPW",
+          "href": "s3.html#v-1xOhcyI5jicpPIOBI9gAqS1C49hTwedPW"
+        },
+        {
+          "number": 5,
+          "title": "Burp Suite",
+          "id": "1dkbDTjjF9dXa2DU3h9h_Pspw0cJlM2yb",
+          "anchor": "v-1dkbDTjjF9dXa2DU3h9h_Pspw0cJlM2yb",
+          "href": "s3.html#v-1dkbDTjjF9dXa2DU3h9h_Pspw0cJlM2yb"
+        },
+        {
+          "number": 6,
+          "title": "Metasploit Basics",
+          "id": "1EI2YAMpOI8TlKg-8SvHIM4hzzXvOEIKM",
+          "anchor": "v-1EI2YAMpOI8TlKg-8SvHIM4hzzXvOEIKM",
+          "href": "s3.html#v-1EI2YAMpOI8TlKg-8SvHIM4hzzXvOEIKM"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Information Gathering",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Google Hacks",
+          "id": "1k3yk2ATM_rFcvLbWE6LVmFDpYTvP76uD",
+          "anchor": "v-1k3yk2ATM_rFcvLbWE6LVmFDpYTvP76uD",
+          "href": "s4.html#v-1k3yk2ATM_rFcvLbWE6LVmFDpYTvP76uD"
+        },
+        {
+          "number": 2,
+          "title": "DNS Enumeration",
+          "id": "1zXbH0T164Umu6cSrDjXieq460Zd0Xn07",
+          "anchor": "v-1zXbH0T164Umu6cSrDjXieq460Zd0Xn07",
+          "href": "s4.html#v-1zXbH0T164Umu6cSrDjXieq460Zd0Xn07"
+        },
+        {
+          "number": 3,
+          "title": "Port Scanning",
+          "id": "1yIt8cHT6XYBbjqt5ne_POrAnIzq3p51H",
+          "anchor": "v-1yIt8cHT6XYBbjqt5ne_POrAnIzq3p51H",
+          "href": "s4.html#v-1yIt8cHT6XYBbjqt5ne_POrAnIzq3p51H"
+        },
+        {
+          "number": 4,
+          "title": "Enumeration",
+          "id": "1JKgUWg1sJIGRa0lIVrbFa5us0kRopMim",
+          "anchor": "v-1JKgUWg1sJIGRa0lIVrbFa5us0kRopMim",
+          "href": "s4.html#v-1JKgUWg1sJIGRa0lIVrbFa5us0kRopMim"
+        },
+        {
+          "number": 5,
+          "title": "NSE",
+          "id": "1qHq-Nq7l0nTuBRtXDV2y8c1MSLjGUGS0",
+          "anchor": "v-1qHq-Nq7l0nTuBRtXDV2y8c1MSLjGUGS0",
+          "href": "s4.html#v-1qHq-Nq7l0nTuBRtXDV2y8c1MSLjGUGS0"
+        },
+        {
+          "number": 6,
+          "title": "Python and Perl Scripts",
+          "id": "1KYhYoPAxycc3TyBrit7GSxXdEJ7nudW0",
+          "anchor": "v-1KYhYoPAxycc3TyBrit7GSxXdEJ7nudW0",
+          "href": "s4.html#v-1KYhYoPAxycc3TyBrit7GSxXdEJ7nudW0"
+        },
+        {
+          "number": 7,
+          "title": "Vulnerability Scanners",
+          "id": "1yF886KbbRFqoZq2HOgzebgq1Td4xTnTw",
+          "anchor": "v-1yF886KbbRFqoZq2HOgzebgq1Td4xTnTw",
+          "href": "s4.html#v-1yF886KbbRFqoZq2HOgzebgq1Td4xTnTw"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Exploits",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "XSS",
+          "id": "12ZUmB1Pgtl5l5zCC0ADE2N2hR7mzsJUs",
+          "anchor": "v-12ZUmB1Pgtl5l5zCC0ADE2N2hR7mzsJUs",
+          "href": "s5.html#v-12ZUmB1Pgtl5l5zCC0ADE2N2hR7mzsJUs"
+        },
+        {
+          "number": 2,
+          "title": "SQL Injections",
+          "id": "1ekgH6lVxlqexKKfCYzqU2TzLl6nBSUvl",
+          "anchor": "v-1ekgH6lVxlqexKKfCYzqU2TzLl6nBSUvl",
+          "href": "s5.html#v-1ekgH6lVxlqexKKfCYzqU2TzLl6nBSUvl"
+        },
+        {
+          "number": 3,
+          "title": "LFI-RFI and Directory Traversal",
+          "id": "1395rvRlc6oEEm8O2R5y1yFoxanIr5-Fm",
+          "anchor": "v-1395rvRlc6oEEm8O2R5y1yFoxanIr5-Fm",
+          "href": "s5.html#v-1395rvRlc6oEEm8O2R5y1yFoxanIr5-Fm"
+        },
+        {
+          "number": 4,
+          "title": "Password Attacks",
+          "id": "1H3F0Uca_d4hE6skrr3meWif5-IMagzmv",
+          "anchor": "v-1H3F0Uca_d4hE6skrr3meWif5-IMagzmv",
+          "href": "s5.html#v-1H3F0Uca_d4hE6skrr3meWif5-IMagzmv"
+        },
+        {
+          "number": 5,
+          "title": "Public Exploits",
+          "id": "1B5cEdCx6uqDGrt41z3p_HFy-p6ziKe3w",
+          "anchor": "v-1B5cEdCx6uqDGrt41z3p_HFy-p6ziKe3w",
+          "href": "s5.html#v-1B5cEdCx6uqDGrt41z3p_HFy-p6ziKe3w"
+        },
+        {
+          "number": 6,
+          "title": "MSFvenom",
+          "id": "1AVTbFqfWz2S8Ct7F1Ou5uqFy1hzXyPiP",
+          "anchor": "v-1AVTbFqfWz2S8Ct7F1Ou5uqFy1hzXyPiP",
+          "href": "s5.html#v-1AVTbFqfWz2S8Ct7F1Ou5uqFy1hzXyPiP"
+        },
+        {
+          "number": 7,
+          "title": "Tunneling",
+          "id": "1AoQYe98s1FT1SfPmsBrgk6E0AYuxgWsn",
+          "anchor": "v-1AoQYe98s1FT1SfPmsBrgk6E0AYuxgWsn",
+          "href": "s5.html#v-1AoQYe98s1FT1SfPmsBrgk6E0AYuxgWsn"
+        },
+        {
+          "number": 8,
+          "title": "Lateral and Vertical Movement",
+          "id": "1BrkbP9BZllDmbuCKFSQ3S0CdynNWBOSt",
+          "anchor": "v-1BrkbP9BZllDmbuCKFSQ3S0CdynNWBOSt",
+          "href": "s5.html#v-1BrkbP9BZllDmbuCKFSQ3S0CdynNWBOSt"
+        },
+        {
+          "number": 9,
+          "title": "Erasing your Tracks",
+          "id": "169DcStTU44VX6mQKSxZxKBceKBCAUcKS",
+          "anchor": "v-169DcStTU44VX6mQKSxZxKBceKBCAUcKS",
+          "href": "s5.html#v-169DcStTU44VX6mQKSxZxKBceKBCAUcKS"
+        },
+        {
+          "number": 10,
+          "title": "Antivirus Avoidance",
+          "id": "1lSAEEpArEwajvJ62_IWKuuujIFQM6_V4",
+          "anchor": "v-1lSAEEpArEwajvJ62_IWKuuujIFQM6_V4",
+          "href": "s5.html#v-1lSAEEpArEwajvJ62_IWKuuujIFQM6_V4"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Buffer Overflow",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Basic Concepts",
+          "id": "1GFOOR1K8ic2Eh0jAxG6QGdzC3kFGgcGd",
+          "anchor": "v-1GFOOR1K8ic2Eh0jAxG6QGdzC3kFGgcGd",
+          "href": "s6.html#v-1GFOOR1K8ic2Eh0jAxG6QGdzC3kFGgcGd"
+        },
+        {
+          "number": 2,
+          "title": "Immunity Debugger Fuzzing",
+          "id": "1-QjTAXGBojnJFK5eH63YERrEQOKS7nKU",
+          "anchor": "v-1-QjTAXGBojnJFK5eH63YERrEQOKS7nKU",
+          "href": "s6.html#v-1-QjTAXGBojnJFK5eH63YERrEQOKS7nKU"
+        },
+        {
+          "number": 3,
+          "title": "Controlling EBP ESP EIP",
+          "id": "1mzAclyZAFzsjZZjIbiAe0kTePcbwIwag",
+          "anchor": "v-1mzAclyZAFzsjZZjIbiAe0kTePcbwIwag",
+          "href": "s6.html#v-1mzAclyZAFzsjZZjIbiAe0kTePcbwIwag"
+        },
+        {
+          "number": 4,
+          "title": "Bad Chars",
+          "id": "1BSboTFVG4Ya46c3Vr9DDqxXVCj4Egiqg",
+          "anchor": "v-1BSboTFVG4Ya46c3Vr9DDqxXVCj4Egiqg",
+          "href": "s6.html#v-1BSboTFVG4Ya46c3Vr9DDqxXVCj4Egiqg"
+        },
+        {
+          "number": 5,
+          "title": "Redirecting Execution",
+          "id": "1tp3rCYIK1iCMNPwBuBZj8Z1K3qyB-vDz",
+          "anchor": "v-1tp3rCYIK1iCMNPwBuBZj8Z1K3qyB-vDz",
+          "href": "s6.html#v-1tp3rCYIK1iCMNPwBuBZj8Z1K3qyB-vDz"
+        },
+        {
+          "number": 6,
+          "title": "Creating a Payload",
+          "id": "1reWxS2e2gfpCyw2tnKVRqxdbRQrG_t2C",
+          "anchor": "v-1reWxS2e2gfpCyw2tnKVRqxdbRQrG_t2C",
+          "href": "s6.html#v-1reWxS2e2gfpCyw2tnKVRqxdbRQrG_t2C"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Privilege Escalation",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Linux OS",
+          "id": "15j9WxF3fv4xqL7-62xPsfidXpvrgty83",
+          "anchor": "v-15j9WxF3fv4xqL7-62xPsfidXpvrgty83",
+          "href": "s7.html#v-15j9WxF3fv4xqL7-62xPsfidXpvrgty83"
+        },
+        {
+          "number": 2,
+          "title": "Linux Applications and Services",
+          "id": "11tBbeCocbVZ162EJEyVr2N3nXm09hE5S",
+          "anchor": "v-11tBbeCocbVZ162EJEyVr2N3nXm09hE5S",
+          "href": "s7.html#v-11tBbeCocbVZ162EJEyVr2N3nXm09hE5S"
+        },
+        {
+          "number": 3,
+          "title": "Linux Files",
+          "id": "1mKOEvpuY7am07SqJ_0N041xi5B3ugOY8",
+          "anchor": "v-1mKOEvpuY7am07SqJ_0N041xi5B3ugOY8",
+          "href": "s7.html#v-1mKOEvpuY7am07SqJ_0N041xi5B3ugOY8"
+        },
+        {
+          "number": 4,
+          "title": "Linux Networking",
+          "id": "1RvtKPJRVh0fJ1z9bUCxVvO5OOLyIwJfx",
+          "anchor": "v-1RvtKPJRVh0fJ1z9bUCxVvO5OOLyIwJfx",
+          "href": "s7.html#v-1RvtKPJRVh0fJ1z9bUCxVvO5OOLyIwJfx"
+        },
+        {
+          "number": 5,
+          "title": "Linux Misconfigurations for Confidential Information",
+          "id": "1rVqsdfsG29orFMEagHXmq0lqPNv3-vOc",
+          "anchor": "v-1rVqsdfsG29orFMEagHXmq0lqPNv3-vOc",
+          "href": "s7.html#v-1rVqsdfsG29orFMEagHXmq0lqPNv3-vOc"
+        },
+        {
+          "number": 6,
+          "title": "Windows OS",
+          "id": "1ggHgvc97R7bN89p1PxV3PKv_BwSGXF9X",
+          "anchor": "v-1ggHgvc97R7bN89p1PxV3PKv_BwSGXF9X",
+          "href": "s7.html#v-1ggHgvc97R7bN89p1PxV3PKv_BwSGXF9X"
+        },
+        {
+          "number": 7,
+          "title": "WMIC",
+          "id": "1poXz18jPsROUHMJnZEsrXuRwrZMwWyLZ",
+          "anchor": "v-1poXz18jPsROUHMJnZEsrXuRwrZMwWyLZ",
+          "href": "s7.html#v-1poXz18jPsROUHMJnZEsrXuRwrZMwWyLZ"
+        },
+        {
+          "number": 8,
+          "title": "Windows Application and Services",
+          "id": "1oXWFCs2-u5aWWhh9vIs6cTLDPp9WSpG2",
+          "anchor": "v-1oXWFCs2-u5aWWhh9vIs6cTLDPp9WSpG2",
+          "href": "s7.html#v-1oXWFCs2-u5aWWhh9vIs6cTLDPp9WSpG2"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Pentest Simulation",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Pre-Engagement Actions",
+          "id": "1BYsIWzWb18XILKwXaSSgN75gdius_lbq",
+          "anchor": "v-1BYsIWzWb18XILKwXaSSgN75gdius_lbq",
+          "href": "s8.html#v-1BYsIWzWb18XILKwXaSSgN75gdius_lbq"
+        },
+        {
+          "number": 2,
+          "title": "Reconnaissance and Vulnerability Identification",
+          "id": "1Th-NJSEHq87soi6P6DOgOyAa1QXOFTJJ",
+          "anchor": "v-1Th-NJSEHq87soi6P6DOgOyAa1QXOFTJJ",
+          "href": "s8.html#v-1Th-NJSEHq87soi6P6DOgOyAa1QXOFTJJ"
+        },
+        {
+          "number": 3,
+          "title": "Exploitation",
+          "id": "1AkOy3SCC5Ovl4wCu-RNiRC0wPG22iZjC",
+          "anchor": "v-1AkOy3SCC5Ovl4wCu-RNiRC0wPG22iZjC",
+          "href": "s8.html#v-1AkOy3SCC5Ovl4wCu-RNiRC0wPG22iZjC"
+        },
+        {
+          "number": 4,
+          "title": "Privilege Escalation",
+          "id": "1DH6wLdnQQ5PyeRyd5cO458yku0DmfGM_",
+          "anchor": "v-1DH6wLdnQQ5PyeRyd5cO458yku0DmfGM_",
+          "href": "s8.html#v-1DH6wLdnQQ5PyeRyd5cO458yku0DmfGM_"
+        },
+        {
+          "number": 5,
+          "title": "Reporting and Next Steps",
+          "id": "1RI5ouLug91CRtzBj4H9ULwISAcxgaH70",
+          "anchor": "v-1RI5ouLug91CRtzBj4H9ULwISAcxgaH70",
+          "href": "s8.html#v-1RI5ouLug91CRtzBj4H9ULwISAcxgaH70"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Course Summary",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Course Summary",
+          "id": "1RwRLQ_PLFTGxv0l5eqmHzM_z_qod7nxa",
+          "anchor": "v-1RwRLQ_PLFTGxv0l5eqmHzM_z_qod7nxa",
+          "href": "s9.html#v-1RwRLQ_PLFTGxv0l5eqmHzM_z_qod7nxa"
+        }
+      ]
+    }
+  ]
+}
